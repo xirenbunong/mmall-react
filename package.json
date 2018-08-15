@@ -1,0 +1,19 @@
+{
+  "name": "admin-v2-fe",
+  "version": "1.0.0",
+  "description": "react项目实战",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xirenbunong/mmall-react.git"
+  },
+  "author": "xiren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xirenbunong/mmall-react/issues"
+  },
+  "homepage": "https://github.com/xirenbunong/mmall-react#readme"
+}
